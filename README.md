@@ -7,5 +7,5 @@ http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.h
 After you finish install Java SE Development Kit
 You can just download our Biubiubiu.jar file
 Our google form is here
-http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+https://docs.google.com/forms/d/e/1FAIpQLSeKMhIyQ4o9Gk2CHtHtnzOCQ0lko4abPG0ZxCU-_0m7QuF_nw/viewform
 Thank you!
